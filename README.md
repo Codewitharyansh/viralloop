@@ -7,16 +7,27 @@ copy (Hook → Problem → Agitation → Solution → Feature → CTA), renders
 each slide as a real image, and logs the post so future carousels can
 learn from what's worked before.
 
+![Homepage](screenshots/homepage.png)
+
 ## Features
 
 - **Analyze** — scrapes any public URL (title, description, headlines,
   value props) with Playwright. No login, no scraping behind a wall.
+
+  ![Analyze](screenshots/analyze.png)
+
 - **Generate** — writes 6 slides of on-brand carousel copy and renders
   each one as a real 1080×1350 PNG, entirely **locally and for free**
   (no paid AI image API, no credits, no API key).
+
+  ![Generate](screenshots/slides.png)
+
 - **Publish** — logs the finished post locally (caption + image files)
   so your posting history and learning loop keep growing. Auto-posting
   straight to Instagram isn't wired up out of the box (see below).
+
+  ![Publish](screenshots/publish.png)
+
 - **Learnings** — every logged post is tracked in a local JSON file, so
   future carousels can be nudged toward what's performed best.
 
