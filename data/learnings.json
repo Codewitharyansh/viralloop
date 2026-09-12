@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "username": "your_account",
+      "imageUrls": [
+        "http://localhost:4000/generated/slide-1-224d0729-6959-4d74-91fa-20cf11a082d9.png",
+        "http://localhost:4000/generated/slide-2-06d6f338-b686-41f2-9a21-8d03cba64bc5.png",
+        "http://localhost:4000/generated/slide-3-145e7d96-58fd-4b0e-950b-5d1578941fd7.png",
+        "http://localhost:4000/generated/slide-4-1c653d35-1803-42ed-9649-4a7b7d5fd5d6.png",
+        "http://localhost:4000/generated/slide-5-e6fa4ba4-1e88-49d0-88d2-e7fee92216da.png",
+        "http://localhost:4000/generated/slide-6-58659461-6992-41f1-b1f7-6333496592b2.png"
+      ],
+      "caption": "Stripe | Financial Infrastructure to Grow Your Revenue\n\nSwipe to see why. Link in bio.\n\n#Stripe",
+      "score": 0,
+      "loggedAt": "2026-09-11T22:42:15.798Z"
+    }
+  ]
+}
